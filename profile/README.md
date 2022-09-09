@@ -6,3 +6,9 @@
 🔨 We build and, manage On-Premises<br>
 ☁️ We fly and, control the Cloud<br>
 🎓 We are experienced professionals from the IT industry<br>
+
+
+## Find out more about us
+
+- [Official website](https://tekincloud.com/)
+- [LinkedIn](https://www.linkedin.com/company/tekincloud/about/)
