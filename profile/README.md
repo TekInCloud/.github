@@ -3,6 +3,6 @@
 
 **To define us 🕶**
 
-🔨 We build and, manage On-Premises
-☁️ We fly and, control the Cloud
-🎓 We are experienced professionals from the IT industry
+🔨 We build and, manage On-Premises<br>
+☁️ We fly and, control the Cloud<br>
+🎓 We are experienced professionals from the IT industry<br>
