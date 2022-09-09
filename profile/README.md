@@ -8,7 +8,7 @@
 🎓 We are experienced professionals from the IT industry<br>
 
 
-## Find out more about us
+## Find out more about us 🌍
 
 - [Official website](https://tekincloud.com/)
 - [LinkedIn](https://www.linkedin.com/company/tekincloud/about/)
