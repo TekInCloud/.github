@@ -11,4 +11,5 @@
 ## Find out more about us 🌍
 
 - [Official website](https://tekincloud.com/)
+- [Official training app](https://training.tekincloud.com/)
 - [LinkedIn](https://www.linkedin.com/company/tekincloud/about/)
